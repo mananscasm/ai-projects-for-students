@@ -8,6 +8,7 @@ This repository is designed to be useful, beginner-friendly, and contribution-fr
 
 ## Contents
 
+- `docs/PROJECT-SPECS.md`: portfolio-ready AI project specs with stack and evaluation ideas.
 - `docs/ROADMAP.md`: planned improvements and contribution ideas.
 - `.github/ISSUE_TEMPLATE`: structured issue templates.
 - `.github/workflows/repo-health.yml`: lightweight repository quality checks.
